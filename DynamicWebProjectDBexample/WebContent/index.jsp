@@ -4,7 +4,7 @@
 <html>
 	<head>
 	<meta charset="ISO-8859-1">
-	<title>Insert title here</title>
+	<title>BOOKS story</title>
 	</head>
 	<body>
 		<h1>Hello DB</h1>
